@@ -1,0 +1,23 @@
+---
+title: "Data Analysis in Software Engineering. Part 3"
+output: pdf_document
+header-includes: \usepackage{}
+---
+
+## Genetic Programming for Symbolic Regression
+  - Depending on the function set used and the function to be minimised, GP can generate almost any type of curve
+  
+  
+  ![](/home/javier/DocProjects/PRESI2013/icebergFeb2016/gp1.png)
+  ![](/home/javier/DocProjects/PRESI2013/icebergFeb2016/gp2.png)
+
+
+
+## Neural Networks
+
+
+  - neuralnet package in R and caret. Need scaling of variables. to do
+  
+  
+  ![](/home/javier/DocProjects/PRESI2013/icebergFeb2016/neuralnet.png)
+ ![](/home/javier/DocProjects/PRESI2013/icebergFeb2016/neuralnet2.png)
