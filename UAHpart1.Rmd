@@ -15,7 +15,7 @@ This is an R Markdown presentation. Markdown is a simple formatting syntax for a
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
 
-Important: for compiling this document you need to change the paths to your folders where you have downloaded the content of [https://github.com/javierdolado/--------------](https://github.com/javierdolado/-------------), i.e, change */home/javier/DocProjects/PRESI2013/-------------.
+Important: for compiling this document you need to change the paths to your folders where you have downloaded the content of [https://github.com/javierdolado/icebergUAH](https://github.com/javierdolado/icebergUAH), i.e, change */home/javier/DocProjects/PRESI2013/-------------.
 
 ## Outline of the talk
   - Setting the environment
